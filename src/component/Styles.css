@@ -1,0 +1,41 @@
+.container{
+    width: auto;
+    height: 500%;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 10vh;
+    background:rgb(241, 191, 158);
+    color:whitesmoke;
+}
+.links{
+   
+        width: 50%;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        list-style: none;
+
+    
+}
+
+/* li{
+    color:aquamarine;
+}
+h3{
+    color: antiquewhite;
+} */
+.student{
+    background-color: rgb(234, 143, 86);
+    height: 100vh;
+}
+.contact{
+    background: rgb(234, 143, 86);
+    height: 100vh;
+    text-align: center;
+}
+.img-tag{
+    width: 100%;
+}
